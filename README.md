@@ -1,6 +1,7 @@
 # ✈️ AirlineOps - Airline Delay & Operations Intelligence System
 
-![Dashboard Preview](Images/dashboard_preview.png)
+<img width="1332" height="742" alt="AirlineOps Dashboard" src="https://github.com/user-attachments/assets/7ee9d103-e85f-44ed-8e4e-5bac20f2973a" />
+
 
 ## 📌 Project Overview
 
