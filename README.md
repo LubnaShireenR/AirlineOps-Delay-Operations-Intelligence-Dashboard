@@ -167,27 +167,6 @@ Compare successful flights against cancellations.
 
 ---
 
-## 📂 Project Structure
-AirlineOps-PowerBI-Analytics/
-
-│
-├── Dataset/
-│ ├── airline_dataset.csv
-│ └── airlineops_cleaned.csv
-│
-├── Notebook/
-│ └── AirlineOps.ipynb
-│
-├── Dashboard/
-│ └── AirlineOps.pbix
-│
-├── Images/
-│ └── dashboard_preview.png
-│
-└── README.md
-
----
-
 ## 🔄 Workflow
 
 1. Data Collection
