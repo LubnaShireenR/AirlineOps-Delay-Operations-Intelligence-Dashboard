@@ -200,5 +200,5 @@ Compare successful flights against cancellations.
 ## 👩‍💻 Developed By
 
 **Lubna Shireen R**
-**Student | Data Analytics Enthusiast | Machine Learning Learner**
+**Student | Data Enthusiast | Learner**
 
