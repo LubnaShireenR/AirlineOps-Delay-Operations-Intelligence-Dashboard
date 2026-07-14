@@ -3,7 +3,7 @@
 <img width="1332" height="742" alt="AirlineOps Dashboard" src="https://github.com/user-attachments/assets/7ee9d103-e85f-44ed-8e4e-5bac20f2973a" />
 
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 AirlineOps is an interactive Business Intelligence dashboard developed using Power BI to analyze airline delay patterns, flight operations, cancellations, distance coverage, and delay causes.
 
