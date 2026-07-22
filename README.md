@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview 
 
-AirlineOps is an interactive Business Intelligence dashboard developed using Power BI to analyze airline delay patterns, flight operations, cancellations, distance coverage, and delay causes.
+AirlineOps is an interactive Business Intelligence dashboard developed using Power BI to analyze airline delay patterns, flight operations, cancellations, distance coverage, and delay causes. 
 
 The project transforms raw airline operational data into meaningful insights through data cleaning, analysis, and visualization. It helps understand airline performance, identify delay trends, and support data-driven decision-making.
 
